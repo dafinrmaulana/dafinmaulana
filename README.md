@@ -1,13 +1,14 @@
-[![image](https://www.linkpicture.com/q/kuru-code.gif)](https://www.linkpicture.com/view.php?img=LPic646520e091fdf70702958)
-<h1 align="center">Whats up bro 🤨, My name is Dafi Nurrohman Maulana but you can call me anytime 😋</h1>
+
+<h1 align="center">Hi, My name is Dafi Nurrohman Maulana</h1>
 <h3 align="center">I really love frontend development</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dafinmaulanna&label=Profile%20views&color=0e75b6&style=flat" alt="dafinmaulanna" /> </p>
 
-- 🌱 I’m currently learning **Next Js, TailwindCSS, Laravel**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap**
+
+- 🌱 I’m currently learning **Next Js, TailwindCSS, Laravel, inertia, Tailwindcss**
+
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwindcss**
 
 - 📫 How to reach me **dafinmaulana18@gmai.com**
 
