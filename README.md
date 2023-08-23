@@ -1,3 +1,1 @@
-### My GitHub Stats
-
-<h1>dafi</h1>
+![DafiNMaulana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DafiNMaulana&theme=tokyonight&hide_border=true)
