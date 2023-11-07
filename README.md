@@ -1,4 +1,4 @@
-<h1>Doing Laravel and React.js for survive</h1>
+<h1>Doing Frontend dev for survive</h1>
 
 <h4>Here's my stat (i know, it suck lol)</h4>
 
